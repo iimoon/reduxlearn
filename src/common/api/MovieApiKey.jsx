@@ -1,1 +1,1 @@
- export const APIKey = "ca39f1f9"
+ export const APIKey = "heheuaintgettingmyapikeybuddy"
